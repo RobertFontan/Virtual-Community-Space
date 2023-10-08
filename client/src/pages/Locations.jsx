@@ -41,6 +41,7 @@ const Locations = () => {
 
     return (
         <div className='available-locations'>
+            
             <div id='venue1button' className='venue1-button-overlay'>
                 <button>{venueNames.venue1}</button>
             </div>
