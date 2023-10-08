@@ -1,10 +1,10 @@
-# WEB103 Project 3 - *Name of App Here*
+# WEB103 Project 3 - *Virtual Community Space*
 
-Submitted by: **Your name here**
+Submitted by: **Robert Fontan**
 
-About this web app: **App description here**
+About this web app: **The app was to make a virtual community space with an interactive interface that allows users to explore events by location. The user should be able to click on one of at least four locations and view events that have occurred or will occur there**
 
-Time spent: **X** hours
+Time spent: **15** hours
 
 ## Required Features
 
@@ -33,10 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/E25BczE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+GIF created with gifcap  GIF tool here
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,11 +44,12 @@ GIF created with ...  GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+This project was challenging because the backend had to be build out from everything
+from scratch. Dealing with a database and configuring multiple files to work together was hard.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2023] [Robert Fontan]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
